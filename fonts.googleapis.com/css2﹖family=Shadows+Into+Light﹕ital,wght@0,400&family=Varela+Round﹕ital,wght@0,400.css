@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Shadows Into Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/shadowsintolight/v22/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDd8r-xzU.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Varela Round';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts.gstatic.com/s/varelaround/v21/w8gdH283Tvk__Lua32TysjIvpcGID9k.woff2) format('woff2');
+}
